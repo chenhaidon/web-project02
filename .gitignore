@@ -1,0 +1,3 @@
+# 项目排除路径
+/tlias-pojo/target/
+/tlias-utils/target/
